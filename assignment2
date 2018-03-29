@@ -188,7 +188,7 @@ int main(void)
   
 		}
   
-	
+	/**/
 		if (filev[0] != NULL) printf("< %s\n", filev[0]);/* IN */
 
 		if (filev[1] != NULL) printf("> %s\n", filev[1]);/* OUT */
